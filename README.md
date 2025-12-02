@@ -32,5 +32,7 @@ Here are some meaningful patterns observed:
 
 **📸 Output / Results (Screenshots)**
 
-I produced 16 visualizations capturing multiple perspectives on the data.adding them in README will show all insights .
+I produced 16 visualizations capturing multiple perspectives on the data.adding them in README will show all insights.
+
+Subplots.png
 
