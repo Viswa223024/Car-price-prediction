@@ -29,3 +29,8 @@ Here are some meaningful patterns observed:
 * Fuel type and condition impact pricing in noticeable ways
 * Mileage and age of a car strongly affect its value
 * Engine capacity, transmission type, and model frequency play a role too
+
+**📸 Output / Results (Screenshots)**
+
+I produced 16 visualizations capturing multiple perspectives on the data.adding them in README will show all insights .
+
